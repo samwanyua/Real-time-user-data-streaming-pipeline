@@ -64,7 +64,7 @@ git clone https://github.com/wanyua/Real-time-user-streaming-pipeline.git
 cd Real-time-user-streaming-pipeline
 
 # Start the containers
-docker-compose up --build
+docker compose up --build
 
 ```
 

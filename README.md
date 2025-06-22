@@ -25,6 +25,7 @@ This project demonstrates a complete real-time data engineering workflow:
 | Storage       | Apache Cassandra           |
 | Orchestration | Apache Airflow             |
 | Containerization | Docker, Docker Compose |
+| CI/CD         | Github Actions            |
 
 ---
 
